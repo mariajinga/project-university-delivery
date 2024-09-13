@@ -1,5 +1,13 @@
 # Project C# - Home Delivery Services | Proiect C# Livrări La Domiciliu
 
+*******************************************************
+### *IMPORTANT*
+*This project was developed by me during my time at university and was created using online resources and domain-specific books as sources of inspiration. The goal of this project was to explore and learn through practical examples, combining various information and techniques found in these resources to bring it to completion. I would like to mention that the source code of this project is posted on GitHub, but it is set to private to avoid any form of plagiarism, as it is the result of my own personal work.*
+
+*Acest proiect a fost realizat de mine în timpul facultății și a fost creat folosind resurse de pe internet și cărți de specialitate drept surse de inspirație. Scopul acestui proiect a fost să explorez și să învăț prin intermediul unor exemple practice, combinând diverse informații și tehnici găsite în aceste resurse pentru a-l aduce la bun sfârșit. Menționez că codul sursă al acestui proiect este postat pe GitHub, dar este setat pe privat pentru a evita orice formă de plagiat, deoarece este rezultatul muncii mele personale.*
+
+*******************************************************
+
 ## Project Summary | Rezumatul Proiectului
 
 In this project, I developed a software application focused on **home delivery services**, implementing key functionalities for managing orders and deliveries. This project was entirely developed by me, following the technical requirements and providing an efficient solution for managing home delivery services. The project was structured to meet several technical and functional requirements:
