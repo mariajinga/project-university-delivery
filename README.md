@@ -29,6 +29,6 @@ In this project, I developed a software application focused on **home delivery s
 10. **Control de utilizator reutilizabil**: Am creat un control de utilizator personalizat, folosit în mai multe secțiuni ale aplicației pentru a optimiza fluxul de utilizare.
 
 ---
+
 ## Video
-https://github.com/user-attachments/assets/6d37b00e-ec2c-4067-8308-ff3037ca6cae
----
+https://github.com/user-attachments/assets/ad4ddd4c-7c4b-4b9a-8592-3ae65bf888af
