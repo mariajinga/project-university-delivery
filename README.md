@@ -1,6 +1,6 @@
 # Project C# - Home Delivery Services | Proiect C# Livrări La Domiciliu
 
-### Project Summary | Rezumatul Proiectului
+## Project Summary | Rezumatul Proiectului
 
 In this project, I developed a software application focused on **home delivery services**, implementing key functionalities for managing orders and deliveries. This project was entirely developed by me, following the technical requirements and providing an efficient solution for managing home delivery services. The project was structured to meet several technical and functional requirements:
 
@@ -27,3 +27,8 @@ In this project, I developed a software application focused on **home delivery s
 8. **Funcționalități drag & drop**: Am integrat funcționalități de drag & drop pentru gestionarea produselor dintr-o comandă, facilitând modificarea acesteia.
 9. **Stocarea și regăsirea datelor în baza de date**: Am dezvoltat un sistem de gestionare a datelor printr-o bază de date, permițând stocarea comenzilor, clienților și produselor, precum și căutarea rapidă a acestora.
 10. **Control de utilizator reutilizabil**: Am creat un control de utilizator personalizat, folosit în mai multe secțiuni ale aplicației pentru a optimiza fluxul de utilizare.
+
+---
+## Video
+https://github.com/user-attachments/assets/6d37b00e-ec2c-4067-8308-ff3037ca6cae
+---
